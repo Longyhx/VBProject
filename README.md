@@ -1,2 +1,2 @@
 # VBProject
-Read the object from vb6 object file by VB.NET
+VB.NET读取VB6结构体保存的文件。
